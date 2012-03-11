@@ -1,1 +1,6 @@
-# this is the first slide
+# SASS & Unobtrusive CSS
+## Outline
+
+1. HTML5 - What's old, What's new
+2. CSS - Selectors good and bad
+3. CSS Engines - Engineering CSS

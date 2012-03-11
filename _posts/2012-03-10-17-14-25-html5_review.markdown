@@ -1,0 +1,24 @@
+#HTML5 - What's old
+
+##Deprecated Tags:
+
+<table>
+<tr><th width="40%">Tags (Elements)</th><th width='45%'>Description</th></tr>
+<tr><td>&lt;acronym&gt;</td><td>Defines an acronym</td></tr>
+<tr><td>&lt;applet&gt; </td><td>Defines an applet</td></tr>
+<tr><td>&lt;basefont&gt;</td><td>Defines an base font for the page.</td></tr>
+<tr><td>&lt;big&gt;</td><td>Defines big text</td></tr>
+<tr><td>&lt;center&gt;</td><td>Defines centered text</td></tr>
+<tr><td>&lt;dir&gt;</td><td>Defines a directory list</td></tr>
+<tr><td>&lt;font&gt;</td><td>Defines text font, size, and color</td></tr>
+<tr><td>&lt;frame&gt; </td><td>Defines a frame</td></tr>
+<tr><td>&lt;frameset&gt; </td><td>Defines a set of frames</td></tr>
+<tr><td>&lt;isindex&gt; </td><td>Defines a single-line input field</td></tr>
+<tr><td>&lt;noframes&gt;</td><td>Defines a noframe section</td></tr>
+<tr><td>&lt;s&gt; </td><td>Defines strikethrough text</td></tr>
+<tr><td>&lt;strike&gt;</td><td>Defines strikethrough text</td></tr>
+<tr><td>&lt;tt&gt;</td><td>Defines teletype text</td></tr>
+<tr><td>&lt;u&gt; </td><td>Defines underlined text</td></tr>
+</table>
+
+From [tutorialspoint.com] (http://www.tutorialspoint.com/html5/html5_deprecated_tags.htm)
