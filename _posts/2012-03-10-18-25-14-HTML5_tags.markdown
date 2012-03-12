@@ -1,11 +1,11 @@
-#HTML - What's new
+#HTML5 - What's new
 ##Tags
 
-1. nav
-2. header
-3. footer
-4. article & section
-5. aside
-6. audio & video
+1. header
+2. nav
+3. article & section
+4. aside
+5. audio & video
+6. footer
 
 ...

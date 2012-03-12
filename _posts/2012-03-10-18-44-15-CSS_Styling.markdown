@@ -1,2 +1,10 @@
-#Styling with CSS
+#HTML5 & CSS
 
+<ul>
+<li>HTML5 standards don't relate to styling, i.e. nothing has changed</li>
+<li>We have the same styling capabilities before HTML5</li>
+<li>What about CSS3?</li>
+    <ul><li>There is work being done @ <a href='http://www.w3.org/Style/CSS/current-work'>W3C</a> </li>
+	</ul>
+
+</ul>

@@ -1,6 +1,10 @@
-# SASS & Unobtrusive CSS
+
+
+# SASS & 
+# Unobtrusive CSS
 ## Outline
 
-1. HTML5 &mdash; What's old, What's new
-2. CSS &mdash; Selectors good and bad
-3. CSS Engines &mdash; Engineering CSS
+1. HTML5 &mdash; Kilometre high view (2min)
+2. CSS &mdash; Zip through (2min)
+3. CSS Engines &mdash; Crafting CSS (~10min)
+4. CSS &mdash; Unobtrusive? (~3min)

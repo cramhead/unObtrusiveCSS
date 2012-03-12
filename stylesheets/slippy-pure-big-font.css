@@ -111,6 +111,9 @@ p, ul, ol {
   font-weight: normal;
   font-size: 1.8em;
 }
+ul ul, ol ol, ul ol, ol ul{
+	font-size: .8em;
+}
 
 p {
   margin:.75em 0;
