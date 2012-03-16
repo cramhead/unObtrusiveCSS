@@ -1,5 +1,7 @@
-#Easy to use
+#Un-obtrusive CSS
 
-1. gem install sass 
-2. mv style.css style.scss 
-3. sass ---watch style.scss:style.css
+CSS, presentation information, can stay neatly separated from the markup, semantic information.
+
+Markup stays clean
+
+CSS is more reusable
