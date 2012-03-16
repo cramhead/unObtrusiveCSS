@@ -1,9 +1,12 @@
 
 
-# SASS & 
-# Unobtrusive CSS
-## Outline
+# SASS & Unobtrusive CSS
 
+Theme:
+1. Separation of Semantics from Presentation
+2. Simply & Structure Presentation
+
+Outline:
 1. HTML5 &mdash; Kilometre high view (2min)
 2. CSS &mdash; Zip through (2min)
 3. CSS Engines &mdash; Crafting CSS (~10min)
