@@ -1,6 +1,8 @@
 #Let's look a SASS
 
 ##What does SASS do?
-1. Nesting: A good approach to minimize spillover
-2. Mixins and Selector Inheritence: Improves reuse and computation
-3. Variables: Facilitates computation and customization
+
+1. Reuse & modularization: @imports, mixins, selector inheritance, variables
+2. Minimizing spillover: nesting
+3. Much more
+

@@ -1,5 +1,6 @@
-#HTML5 - Changes are Semantic
-Overall the changes:
+#HTML5 - 
+#Changes in Summary
+##Increase semantic information:
 - remove tags and attributes that are associated with styling, i.e. representation of the information
 - add tags and attributes that provide structure, i.e. provide semantics to information
 - support some new technologies

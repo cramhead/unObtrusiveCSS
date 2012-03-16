@@ -1,0 +1,5 @@
+#Easy to use
+
+1. gem install sass 
+2. mv style.css style.scss 
+3. sass ---watch style.scss:style.css

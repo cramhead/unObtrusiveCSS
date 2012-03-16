@@ -1,0 +1,21 @@
+#Reuse
+
+Inheritance
+
+	aside{
+		border: 1px black solid;
+	}
+
+	special_aside
+	{
+		@extend aside;
+		background-color: #fdd;
+	}
+	
+Ouputs:
+
+	aside, .special_aside {
+	  border: 1px black solid; }
+
+	.special_aside {
+	  background-color: #fdd; }

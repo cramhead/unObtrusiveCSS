@@ -1,0 +1,41 @@
+#Nesting
+
+1. Reduce cognitive load
+2. Centralize style declarations
+3. Reduce side effects  
+
+<br/>
+
+	nav{	//using Semantic.gs grid system
+		@include column(9);
+	    ul {
+			@include row(9);
+			li{
+				@include column(5, 9);
+				display:inline; color:red;
+		    }
+		}
+	}
+	
+	nav {
+	  display: inline;
+	  float: left;
+	  width: 700px;
+	  margin: 0 10px; }
+	  nav ul {
+	    display: block;
+	    width: 986.667px;
+	    margin: 0 -13.333px;
+	    *zoom: 1; }
+	    nav ul:before, nav ul:after {
+	      content: "";
+	      display: table; }
+	    nav ul:after {
+	      clear: both; }
+	    nav ul li {
+	      display: inline;
+	      float: left;
+	      width: 506.667px;
+	      margin: 0 13.333px;
+	      display: inline;
+	      color: red; }

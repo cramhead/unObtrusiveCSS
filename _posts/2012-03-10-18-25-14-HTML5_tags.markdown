@@ -1,5 +1,5 @@
 #HTML5 - What's new
-##Tags
+##More Semantic Tags
 
 1. header
 2. nav

@@ -1,0 +1,28 @@
+#Reuse
+
+Files contents can be supplanted into other files
+
+
+	@import "layout.scss";
+	@import "http://borg.org/hive";
+
+Encapsulate logic mixins
+
+	@mixin rounded($radius: 2em){ //this could be in another file
+		-moz-border-radius: $radius;
+		-webkit-border-radius: $radius;
+		border-radius: $radius;
+	} //note: the mixin's definition is not output only the result
+
+	$rad: 10px;
+	$border: 1px;
+
+	nav{
+		width:80%;
+		@include rounded($rad); //set variable
+	}
+
+	section{
+		color: #ccc;
+		@include rounded(); //use default
+	}

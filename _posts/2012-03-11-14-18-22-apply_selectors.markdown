@@ -1,13 +1,11 @@
 ##Apply a declaration based upon a selector
 ###Select elements by:
-1. Tag/Element name, e.g. 
 
+<ol>
+<li>Tag/Element name</li>
 &lt;div&gt;, &lt;h1&gt;, &lt;nav&gt;, &lt;aside&gt;
-	
-2. Id attribute, e.g. 
-
+<li>Id attribute</li>
 &lt;sometag id='sunshine' /&gt;
-
-3. Class attribute, e.g. 
-
-&lt;sometag class='rain'/&gt;
+<li>Class attribute</li>
+&lt;sometag class='rain' /&gt;
+</ol>
